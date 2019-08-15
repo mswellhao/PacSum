@@ -15,7 +15,9 @@ Some codes are borrowed from [pytorch_pretrained_bert](https://github.com/huggin
 
 Download https://drive.google.com/open?id=1gNKWkZG4dVr5XrOeQBVicy1fdnpH2d5l
 
+### Fine-tuned bert models using the approach in the paper:
 
+Download https://drive.google.com/file/d/1wbMlLmnbD_0j7Qs8YY8cSCh935WKKdsP/view?usp=sharing
 
 
 ### Tuning the hyperparamters and test the performance using TfIdf or BERT representation
