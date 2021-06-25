@@ -1,0 +1,21 @@
+# the environments directory
+env/
+venv/
+
+# cache directories
+**/__pycache__/**
+
+# when running the code a temp directory is created containing the extracted data
+temp/
+
+# data
+data/
+
+# models
+pacssum_models/
+
+# user's created file
+scripts.sh
+
+# user's config file
+setup.ini
