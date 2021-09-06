@@ -1,0 +1,12 @@
+gensim
+h5py
+numpy
+Pillow
+pyrouge
+scipy
+six
+smart-open
+torch>=1.0
+torchaudio
+torchvision
+typing-extensions
